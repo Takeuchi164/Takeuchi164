@@ -28,7 +28,7 @@
 ![Canva](https://shields.io)
 ![Wix](https://shields.io)
 ![Adobe Photoshop](https://shields.io)
-![Adobe Illustrator](https://shields.io)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
 
 ---
 
