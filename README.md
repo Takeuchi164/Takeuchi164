@@ -39,7 +39,7 @@
 ###  デザインソフト
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square¥&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square¥&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square¥&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-ffffff?style=flat-square¥&logo=inkscape&logoColor=black)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square¥&logo=gimp&logoColor=white)
 
