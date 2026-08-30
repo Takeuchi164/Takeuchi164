@@ -26,6 +26,8 @@
 
 > **Microsoft　Azureに関する実績**  
 > Microsoft主催のオンライン学習プログラム **「Code; Without Barriers」** 修了。AIの基礎知識やクラウド環境への関心を持って取り組んでいます。
+> <br>
+[デジタルバッジ](https://www.credly.com/users/shiori-takeuchi.4f4c6f5c/badges/credly)　
 
 ## ノーコードツール・デザインソフト等
 
