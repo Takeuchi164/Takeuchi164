@@ -8,9 +8,9 @@
 
 ## 職業訓練校にて6ヶ月学習
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square¥&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square¥&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square¥&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square¥&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square¥&logo=javascript&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square¥&logo=spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square¥&logo=mariadb&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square¥&logo=flutter&logoColor=white)
