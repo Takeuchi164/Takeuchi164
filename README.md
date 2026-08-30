@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square¥&logo=python&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square¥&logoColor=white)
 
-> **Azureに関する実績**  
+> **Microsoft　Azureに関する実績**  
 > Microsoft主催のオンライン学習プログラム **「Code; Without Barriers」** 修了。AIの基礎知識やクラウド環境への関心を持って取り組んでいます。
 
 ### ノーコードツール・デザインソフト等
