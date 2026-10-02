@@ -1,16 +1,60 @@
-## Hi there 👋
+# Takeuchi Shiori / Takeuchi164
 
-<!--
-**Takeuchi164/Takeuchi164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ご覧いただきありがとうございます。これまでの学習や開発経験、制作物をまとめています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# スキルセット / Tech Stack
+
+## 職業訓練校にて6ヶ月学習
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square¥&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square¥&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square¥&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square¥&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square¥&logo=spring&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square¥&logo=mariadb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square¥&logo=flutter&logoColor=white)
+
+### 開発環境
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square¥&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square¥&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square¥&logo=android-studio&logoColor=white)
+
+## 興味のある技術・学習中の領域
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square¥&logo=python&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square¥&logoColor=white)
+
+> **Microsoft　Azureに関する実績**  
+> Microsoft主催のオンライン学習プログラム **「Code; Without Barriers」** 修了。AIの基礎知識やクラウド環境への関心を持って取り組んでいます。
+> <br>
+[デジタルバッジ](https://www.credly.com/users/shiori-takeuchi.4f4c6f5c/badges/credly)　
+
+## ノーコードツール・デザインソフト
+
+### ノーコードツール
+![Notion](https://img.shields.io/badge/Notion-ffffff?style=flat-square¥&logo=notion&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-squar¥&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-FAAD14?style=flat-square¥&logo=wix&logoColor=white)
+
+###  デザインソフト
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square¥&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square¥&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square¥&logo=figma&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-ffffff?style=flat-square¥&logo=inkscape&logoColor=black)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square¥&logo=gimp&logoColor=white)
+
+---
+
+# Projects / 制作物
+
+職業訓練や学習の中で作成したアプリケーションのGitHubリポジトリです。
+
+* **BookLog**：職業訓練の最終課題で作った読書記録アプリです。
+  * GitHubリポジトリ: https://github.com/Takeuchi164/book-log
+* **ranobe-ai**：Code; Without Barriers最終課題で作った書店員風AIアプリです。
+  * GitHubリポジトリ: https://github.com/Takeuchi164/ranobe-ai
+
+---
+
+# Links
+* **GitHub**: https://github.com/Takeuchi164
