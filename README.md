@@ -32,7 +32,6 @@
 ## ノーコードツール・デザインソフト
 
 ### ノーコードツール
-![Notion](https://img.shields.io/badge/Notion-ffffff?style=flat-square¥&logo=notion&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-squar¥&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-FAAD14?style=flat-square¥&logo=wix&logoColor=white)
 
